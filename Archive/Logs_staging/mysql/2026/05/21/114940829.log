@@ -1,0 +1,16 @@
+SOURCE: mysql-2026-05-21-11-49-40-829.log
+PATH: /home/rafik/GestionDesLog/Logs_staging/mysql-2026-05-21-11-49-40-829.log
+ENV: staging
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:40] [ERROR] mysql : Authentication failed
+[2026-05-21 11:49:40] [WARN] mysql : Retry attempt 2 of 3
+[2026-05-21 11:49:40] [INFO] mysql : Cache refreshed
+[2026-05-21 11:49:40] [WARN] mysql : Retry attempt 2 of 3
+[2026-05-21 11:49:40] [ERROR] mysql : Database unreachable
+[2026-05-21 11:49:40] [WARN] mysql : Slow query detected
+--- SUMMARY ---
+INFO: 1
+WARN: 3
+ERROR: 2
+TOTAL: 6

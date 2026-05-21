@@ -1,0 +1,16 @@
+SOURCE: apache-2026-05-21-11-49-41-154.log
+PATH: /home/rafik/GestionDesLog/Logs_staging/apache-2026-05-21-11-49-41-154.log
+ENV: staging
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:41] [ERROR] apache : Database unreachable
+[2026-05-21 11:49:41] [ERROR] apache : Authentication failed
+[2026-05-21 11:49:41] [WARN] apache : Disk usage above 80 percent
+[2026-05-21 11:49:41] [ERROR] apache : Segmentation fault detected
+[2026-05-21 11:49:41] [WARN] apache : Retry attempt 2 of 3
+[2026-05-21 11:49:41] [WARN] apache : High memory usage detected
+--- SUMMARY ---
+INFO: 0
+WARN: 3
+ERROR: 3
+TOTAL: 6

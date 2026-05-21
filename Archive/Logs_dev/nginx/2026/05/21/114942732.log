@@ -1,0 +1,16 @@
+SOURCE: nginx-2026-05-21-11-49-42-732.log
+PATH: /home/rafik/GestionDesLog/Logs_dev/nginx-2026-05-21-11-49-42-732.log
+ENV: dev
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:42] [INFO] nginx : Connection established
+[2026-05-21 11:49:42] [INFO] nginx : Cache refreshed
+[2026-05-21 11:49:42] [INFO] nginx : Service started successfully
+[2026-05-21 11:49:42] [INFO] nginx : Service started successfully
+[2026-05-21 11:49:42] [INFO] nginx : Request processed in 120ms
+[2026-05-21 11:49:42] [WARN] nginx : High memory usage detected
+--- SUMMARY ---
+INFO: 5
+WARN: 1
+ERROR: 0
+TOTAL: 6

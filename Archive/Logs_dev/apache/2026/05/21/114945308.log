@@ -1,0 +1,16 @@
+SOURCE: apache-2026-05-21-11-49-45-308.log
+PATH: /home/rafik/GestionDesLog/Logs_dev/apache-2026-05-21-11-49-45-308.log
+ENV: dev
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:45] [INFO] apache : Connection established
+[2026-05-21 11:49:45] [ERROR] apache : Authentication failed
+[2026-05-21 11:49:45] [ERROR] apache : Authentication failed
+[2026-05-21 11:49:45] [INFO] apache : Request processed in 120ms
+[2026-05-21 11:49:45] [ERROR] apache : Segmentation fault detected
+[2026-05-21 11:49:45] [INFO] apache : Request processed in 120ms
+--- SUMMARY ---
+INFO: 3
+WARN: 0
+ERROR: 3
+TOTAL: 6

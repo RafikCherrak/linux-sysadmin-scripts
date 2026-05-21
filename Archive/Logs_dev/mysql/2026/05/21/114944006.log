@@ -1,0 +1,16 @@
+SOURCE: mysql-2026-05-21-11-49-44-006.log
+PATH: /home/rafik/GestionDesLog/Logs_dev/mysql-2026-05-21-11-49-44-006.log
+ENV: dev
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:44] [INFO] mysql : Connection established
+[2026-05-21 11:49:44] [INFO] mysql : Request processed in 120ms
+[2026-05-21 11:49:44] [INFO] mysql : Request processed in 120ms
+[2026-05-21 11:49:44] [WARN] mysql : Disk usage above 80 percent
+[2026-05-21 11:49:44] [WARN] mysql : High memory usage detected
+[2026-05-21 11:49:44] [ERROR] mysql : Database unreachable
+--- SUMMARY ---
+INFO: 3
+WARN: 2
+ERROR: 1
+TOTAL: 6

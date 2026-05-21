@@ -1,0 +1,16 @@
+SOURCE: apache-2026-05-21-11-49-45-939.log
+PATH: /home/rafik/GestionDesLog/Logs_dev/apache-2026-05-21-11-49-45-939.log
+ENV: dev
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:45] [WARN] apache : High memory usage detected
+[2026-05-21 11:49:45] [WARN] apache : Slow query detected
+[2026-05-21 11:49:45] [WARN] apache : Slow query detected
+[2026-05-21 11:49:45] [WARN] apache : Disk usage above 80 percent
+[2026-05-21 11:49:45] [WARN] apache : Disk usage above 80 percent
+[2026-05-21 11:49:45] [INFO] apache : Request processed in 120ms
+--- SUMMARY ---
+INFO: 1
+WARN: 5
+ERROR: 0
+TOTAL: 6

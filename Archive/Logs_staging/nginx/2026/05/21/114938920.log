@@ -1,0 +1,16 @@
+SOURCE: nginx-2026-05-21-11-49-38-920.log
+PATH: /home/rafik/GestionDesLog/Logs_staging/nginx-2026-05-21-11-49-38-920.log
+ENV: staging
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:38] [INFO] nginx : Service started successfully
+[2026-05-21 11:49:38] [WARN] nginx : High memory usage detected
+[2026-05-21 11:49:38] [WARN] nginx : Slow query detected
+[2026-05-21 11:49:38] [INFO] nginx : Request processed in 120ms
+[2026-05-21 11:49:38] [ERROR] nginx : Connection timeout on port 80
+[2026-05-21 11:49:38] [INFO] nginx : Cache refreshed
+--- SUMMARY ---
+INFO: 3
+WARN: 2
+ERROR: 1
+TOTAL: 6

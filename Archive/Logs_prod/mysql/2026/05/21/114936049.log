@@ -1,0 +1,16 @@
+SOURCE: mysql-2026-05-21-11-49-36-049.log
+PATH: /home/rafik/GestionDesLog/Logs_prod/mysql-2026-05-21-11-49-36-049.log
+ENV: prod
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:36] [INFO] mysql : Service started successfully
+[2026-05-21 11:49:36] [WARN] mysql : High memory usage detected
+[2026-05-21 11:49:36] [ERROR] mysql : Connection timeout on port 80
+[2026-05-21 11:49:36] [WARN] mysql : Disk usage above 80 percent
+[2026-05-21 11:49:36] [ERROR] mysql : Authentication failed
+[2026-05-21 11:49:36] [WARN] mysql : Disk usage above 80 percent
+--- SUMMARY ---
+INFO: 1
+WARN: 3
+ERROR: 2
+TOTAL: 6

@@ -1,0 +1,16 @@
+SOURCE: apache-2026-05-21-11-49-45-625.log
+PATH: /home/rafik/GestionDesLog/Logs_dev/apache-2026-05-21-11-49-45-625.log
+ENV: dev
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:45] [WARN] apache : High memory usage detected
+[2026-05-21 11:49:45] [INFO] apache : Connection established
+[2026-05-21 11:49:45] [WARN] apache : Disk usage above 80 percent
+[2026-05-21 11:49:45] [INFO] apache : Connection established
+[2026-05-21 11:49:45] [WARN] apache : Retry attempt 2 of 3
+[2026-05-21 11:49:45] [WARN] apache : Retry attempt 2 of 3
+--- SUMMARY ---
+INFO: 2
+WARN: 4
+ERROR: 0
+TOTAL: 6

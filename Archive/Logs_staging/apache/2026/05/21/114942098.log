@@ -1,0 +1,16 @@
+SOURCE: apache-2026-05-21-11-49-42-098.log
+PATH: /home/rafik/GestionDesLog/Logs_staging/apache-2026-05-21-11-49-42-098.log
+ENV: staging
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:42] [WARN] apache : High memory usage detected
+[2026-05-21 11:49:42] [ERROR] apache : Connection timeout on port 80
+[2026-05-21 11:49:42] [INFO] apache : Cache refreshed
+[2026-05-21 11:49:42] [ERROR] apache : Authentication failed
+[2026-05-21 11:49:42] [ERROR] apache : Connection timeout on port 80
+[2026-05-21 11:49:42] [ERROR] apache : Segmentation fault detected
+--- SUMMARY ---
+INFO: 1
+WARN: 1
+ERROR: 4
+TOTAL: 6

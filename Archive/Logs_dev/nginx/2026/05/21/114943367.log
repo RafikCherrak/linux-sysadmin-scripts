@@ -1,0 +1,16 @@
+SOURCE: nginx-2026-05-21-11-49-43-367.log
+PATH: /home/rafik/GestionDesLog/Logs_dev/nginx-2026-05-21-11-49-43-367.log
+ENV: dev
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:43] [INFO] nginx : Request processed in 120ms
+[2026-05-21 11:49:43] [ERROR] nginx : Segmentation fault detected
+[2026-05-21 11:49:43] [ERROR] nginx : Authentication failed
+[2026-05-21 11:49:43] [WARN] nginx : Slow query detected
+[2026-05-21 11:49:43] [INFO] nginx : Cache refreshed
+[2026-05-21 11:49:43] [INFO] nginx : Service started successfully
+--- SUMMARY ---
+INFO: 3
+WARN: 1
+ERROR: 2
+TOTAL: 6

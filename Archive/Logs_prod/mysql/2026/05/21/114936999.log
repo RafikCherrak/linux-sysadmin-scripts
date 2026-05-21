@@ -1,0 +1,16 @@
+SOURCE: mysql-2026-05-21-11-49-36-999.log
+PATH: /home/rafik/GestionDesLog/Logs_prod/mysql-2026-05-21-11-49-36-999.log
+ENV: prod
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:37] [INFO] mysql : Request processed in 120ms
+[2026-05-21 11:49:37] [WARN] mysql : Retry attempt 2 of 3
+[2026-05-21 11:49:37] [INFO] mysql : Connection established
+[2026-05-21 11:49:37] [INFO] mysql : Cache refreshed
+[2026-05-21 11:49:37] [WARN] mysql : Retry attempt 2 of 3
+[2026-05-21 11:49:37] [INFO] mysql : Connection established
+--- SUMMARY ---
+INFO: 4
+WARN: 2
+ERROR: 0
+TOTAL: 6

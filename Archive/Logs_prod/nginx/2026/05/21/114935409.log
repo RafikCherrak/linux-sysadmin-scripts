@@ -1,0 +1,16 @@
+SOURCE: nginx-2026-05-21-11-49-35-409.log
+PATH: /home/rafik/GestionDesLog/Logs_prod/nginx-2026-05-21-11-49-35-409.log
+ENV: prod
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:35] [WARN] nginx : High memory usage detected
+[2026-05-21 11:49:35] [ERROR] nginx : Database unreachable
+[2026-05-21 11:49:35] [ERROR] nginx : Connection timeout on port 80
+[2026-05-21 11:49:35] [ERROR] nginx : Database unreachable
+[2026-05-21 11:49:35] [INFO] nginx : Service started successfully
+[2026-05-21 11:49:35] [ERROR] nginx : Segmentation fault detected
+--- SUMMARY ---
+INFO: 1
+WARN: 1
+ERROR: 4
+TOTAL: 6

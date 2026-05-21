@@ -1,0 +1,16 @@
+SOURCE: nginx-2026-05-21-11-49-43-051.log
+PATH: /home/rafik/GestionDesLog/Logs_dev/nginx-2026-05-21-11-49-43-051.log
+ENV: dev
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:43] [ERROR] nginx : Segmentation fault detected
+[2026-05-21 11:49:43] [WARN] nginx : High memory usage detected
+[2026-05-21 11:49:43] [WARN] nginx : High memory usage detected
+[2026-05-21 11:49:43] [INFO] nginx : Cache refreshed
+[2026-05-21 11:49:43] [INFO] nginx : Request processed in 120ms
+[2026-05-21 11:49:43] [WARN] nginx : High memory usage detected
+--- SUMMARY ---
+INFO: 2
+WARN: 3
+ERROR: 1
+TOTAL: 6

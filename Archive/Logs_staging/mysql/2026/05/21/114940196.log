@@ -1,0 +1,16 @@
+SOURCE: mysql-2026-05-21-11-49-40-196.log
+PATH: /home/rafik/GestionDesLog/Logs_staging/mysql-2026-05-21-11-49-40-196.log
+ENV: staging
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:40] [ERROR] mysql : Database unreachable
+[2026-05-21 11:49:40] [INFO] mysql : Cache refreshed
+[2026-05-21 11:49:40] [INFO] mysql : Service started successfully
+[2026-05-21 11:49:40] [WARN] mysql : Disk usage above 80 percent
+[2026-05-21 11:49:40] [INFO] mysql : Request processed in 120ms
+[2026-05-21 11:49:40] [WARN] mysql : High memory usage detected
+--- SUMMARY ---
+INFO: 3
+WARN: 2
+ERROR: 1
+TOTAL: 6

@@ -1,0 +1,16 @@
+SOURCE: mysql-2026-05-21-11-49-44-326.log
+PATH: /home/rafik/GestionDesLog/Logs_dev/mysql-2026-05-21-11-49-44-326.log
+ENV: dev
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:44] [WARN] mysql : Slow query detected
+[2026-05-21 11:49:44] [INFO] mysql : Connection established
+[2026-05-21 11:49:44] [ERROR] mysql : Connection timeout on port 80
+[2026-05-21 11:49:44] [WARN] mysql : High memory usage detected
+[2026-05-21 11:49:44] [WARN] mysql : Slow query detected
+[2026-05-21 11:49:44] [ERROR] mysql : Authentication failed
+--- SUMMARY ---
+INFO: 1
+WARN: 3
+ERROR: 2
+TOTAL: 6

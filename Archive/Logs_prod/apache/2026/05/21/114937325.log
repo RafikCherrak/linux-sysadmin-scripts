@@ -1,0 +1,16 @@
+SOURCE: apache-2026-05-21-11-49-37-325.log
+PATH: /home/rafik/GestionDesLog/Logs_prod/apache-2026-05-21-11-49-37-325.log
+ENV: prod
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:37] [ERROR] apache : Database unreachable
+[2026-05-21 11:49:37] [INFO] apache : Connection established
+[2026-05-21 11:49:37] [WARN] apache : Disk usage above 80 percent
+[2026-05-21 11:49:37] [INFO] apache : Request processed in 120ms
+[2026-05-21 11:49:37] [WARN] apache : Slow query detected
+[2026-05-21 11:49:37] [ERROR] apache : Database unreachable
+--- SUMMARY ---
+INFO: 2
+WARN: 2
+ERROR: 2
+TOTAL: 6

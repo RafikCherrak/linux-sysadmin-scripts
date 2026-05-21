@@ -1,0 +1,16 @@
+SOURCE: nginx-2026-05-21-11-49-35-079.log
+PATH: /home/rafik/GestionDesLog/Logs_prod/nginx-2026-05-21-11-49-35-079.log
+ENV: prod
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:35] [WARN] nginx : Slow query detected
+[2026-05-21 11:49:35] [ERROR] nginx : Authentication failed
+[2026-05-21 11:49:35] [WARN] nginx : Slow query detected
+[2026-05-21 11:49:35] [WARN] nginx : Slow query detected
+[2026-05-21 11:49:35] [ERROR] nginx : Database unreachable
+[2026-05-21 11:49:35] [WARN] nginx : Disk usage above 80 percent
+--- SUMMARY ---
+INFO: 0
+WARN: 4
+ERROR: 2
+TOTAL: 6

@@ -1,0 +1,16 @@
+SOURCE: mysql-2026-05-21-11-49-39-882.log
+PATH: /home/rafik/GestionDesLog/Logs_staging/mysql-2026-05-21-11-49-39-882.log
+ENV: staging
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:39] [WARN] mysql : Retry attempt 2 of 3
+[2026-05-21 11:49:39] [WARN] mysql : Retry attempt 2 of 3
+[2026-05-21 11:49:39] [INFO] mysql : Cache refreshed
+[2026-05-21 11:49:39] [ERROR] mysql : Database unreachable
+[2026-05-21 11:49:39] [INFO] mysql : Connection established
+[2026-05-21 11:49:39] [ERROR] mysql : Connection timeout on port 80
+--- SUMMARY ---
+INFO: 2
+WARN: 2
+ERROR: 2
+TOTAL: 6

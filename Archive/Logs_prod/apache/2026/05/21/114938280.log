@@ -1,0 +1,16 @@
+SOURCE: apache-2026-05-21-11-49-38-280.log
+PATH: /home/rafik/GestionDesLog/Logs_prod/apache-2026-05-21-11-49-38-280.log
+ENV: prod
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:38] [INFO] apache : Request processed in 120ms
+[2026-05-21 11:49:38] [WARN] apache : Retry attempt 2 of 3
+[2026-05-21 11:49:38] [WARN] apache : Slow query detected
+[2026-05-21 11:49:38] [INFO] apache : Connection established
+[2026-05-21 11:49:38] [ERROR] apache : Connection timeout on port 80
+[2026-05-21 11:49:38] [ERROR] apache : Authentication failed
+--- SUMMARY ---
+INFO: 2
+WARN: 2
+ERROR: 2
+TOTAL: 6

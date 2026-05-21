@@ -1,0 +1,16 @@
+SOURCE: mysql-2026-05-21-11-49-43-689.log
+PATH: /home/rafik/GestionDesLog/Logs_dev/mysql-2026-05-21-11-49-43-689.log
+ENV: dev
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:43] [INFO] mysql : Cache refreshed
+[2026-05-21 11:49:43] [INFO] mysql : Service started successfully
+[2026-05-21 11:49:43] [ERROR] mysql : Database unreachable
+[2026-05-21 11:49:43] [ERROR] mysql : Connection timeout on port 80
+[2026-05-21 11:49:43] [INFO] mysql : Connection established
+[2026-05-21 11:49:43] [INFO] mysql : Service started successfully
+--- SUMMARY ---
+INFO: 4
+WARN: 0
+ERROR: 2
+TOTAL: 6

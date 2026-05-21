@@ -1,0 +1,16 @@
+SOURCE: mysql-2026-05-21-11-49-44-668.log
+PATH: /home/rafik/GestionDesLog/Logs_dev/mysql-2026-05-21-11-49-44-668.log
+ENV: dev
+GENERATOR: generate_logs.sh
+---
+[2026-05-21 11:49:44] [INFO] mysql : Cache refreshed
+[2026-05-21 11:49:44] [INFO] mysql : Request processed in 120ms
+[2026-05-21 11:49:44] [INFO] mysql : Connection established
+[2026-05-21 11:49:44] [ERROR] mysql : Authentication failed
+[2026-05-21 11:49:44] [INFO] mysql : Request processed in 120ms
+[2026-05-21 11:49:44] [WARN] mysql : Slow query detected
+--- SUMMARY ---
+INFO: 4
+WARN: 1
+ERROR: 1
+TOTAL: 6
